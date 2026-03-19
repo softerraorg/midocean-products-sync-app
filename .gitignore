@@ -1,0 +1,13 @@
+
+
+node_modules/
+data/products.json
+
+data/products-18-02-26.json
+data/products-9-3-26.json
+.env
+.env.*
+logs/
+package-lock.json
+src/randomScripts.js
+src/findRemovedProducts.js
