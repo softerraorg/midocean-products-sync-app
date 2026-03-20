@@ -54,7 +54,7 @@ if (!validStatuses.includes(NEW_PRODUCT_STATUS)) {
 }
 
 // Product limit for testing (set to null or 0 to process all products)
-const PRODUCT_LIMIT = 246;
+const PRODUCT_LIMIT = null;
 
 // Sync only these master_codes (e.g. ['MO2995']). Set to null or [] to sync all.
 const SYNC_MASTER_CODES = [];
